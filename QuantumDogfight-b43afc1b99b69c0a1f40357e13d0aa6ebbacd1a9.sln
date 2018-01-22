@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumDogfight-b43afc1b99b69c0a1f40357e13d0aa6ebbacd1a9", "Assembly-CSharp.csproj", "{7FABB15F-71F6-5ACB-BC05-E3F649779641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FABB15F-71F6-5ACB-BC05-E3F649779641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FABB15F-71F6-5ACB-BC05-E3F649779641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FABB15F-71F6-5ACB-BC05-E3F649779641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FABB15F-71F6-5ACB-BC05-E3F649779641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
